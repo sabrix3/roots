@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+
+
+.player {
+ height: 100%;
+ width: 100%;
+ min-height: 225px;
+ margin-top: 5px;
+}
+
+
+
+
+.trailer {
+  text-align: center;
+}
+
+.p2 {
+  display: inline-flex;
+  margin-top: 10px;
+}
